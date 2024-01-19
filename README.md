@@ -1,1 +1,1 @@
-# crack MD5-hash-with-python-only
+# python script to decode md5 hash
